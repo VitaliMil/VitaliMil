@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitaliMil
 - 👀 I’m interested in Web Development plus Pythone
-- 🌱 I’m currently learning web an Pythone
+- 🌱 I’m currently learning web an Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my email
 
